@@ -31,6 +31,7 @@ export class BurgerBuilder extends Component {
     this.props.onInitIngredients();
 }
 
+// commenting for better reach
     updatePurchaseState=(newPrice)=>{
        // const sum=Object.values(ingredients).reduce(
             //(sum,el)=>{
